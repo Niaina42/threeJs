@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "ammojs": "0.0.2",
     "express": "^4.18.1",
     "three": "^0.141.0"
   },
